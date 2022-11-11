@@ -2,7 +2,7 @@
   "name": "@retrohack3r/cloze",
   "main": "./index.js",
   "types": "./index.d.ts",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Parse strings containing anki-style cloze notation",
   "scripts": {
     "lint": "standard --fix",
