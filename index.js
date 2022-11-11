@@ -1,4 +1,4 @@
-const parseCloze = /{{c(?<c>[0-9]+)::(?<answer>.*?)(?:::(?<hint>.*?))?}}/gd
+const parseCloze = /{{c(?<c>[0-9]+)::(?<answer>.*?)(?:::(?<hint>.*?))?}}/g
 
 module.exports = function cloze (str) {
   // Get an iterable list of all matches for the regexp

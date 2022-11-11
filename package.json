@@ -1,5 +1,5 @@
 {
-  "name": "cloze",
+  "name": "@retrohack3r/cloze",
   "main": "./index.js",
   "types": "./index.d.ts",
   "version": "1.0.0",
